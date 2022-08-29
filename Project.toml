@@ -1,0 +1,4 @@
+name = "Diabetes"
+uuid = "e7a2e9ae-32c2-423f-a9cf-4d8711cf4917"
+authors = ["Rob Ireton <rob@ireton.org>"]
+version = "0.1.0"
